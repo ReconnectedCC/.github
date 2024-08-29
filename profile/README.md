@@ -1,3 +1,3 @@
-## Project Connecticut
+## ReconnectedCC
 
 A ComputerCraft oriented Minecraft Server.
